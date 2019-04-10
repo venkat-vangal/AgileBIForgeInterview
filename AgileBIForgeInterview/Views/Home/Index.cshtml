@@ -1,0 +1,12 @@
+﻿@model DateTime
+<div class="jumbotron">
+    <h1>Assignment</h1>
+</div>
+<div class="row">
+
+    @{
+        string parameterValue = Model.ToLongDateString();
+    }
+    Current Date : @Html.DisplayFor(modelItem => parameterValue)
+    @*Current Date :  @Html.DisplayFor(Model => Model.ToLongDateString())*@
+</div>

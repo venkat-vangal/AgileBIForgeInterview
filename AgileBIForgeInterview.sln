@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileBIForgeInterview", "AgileBIForgeInterview\AgileBIForgeInterview.csproj", "{FBBAA163-4458-4DC9-B080-A895FD7B43D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riddle", "Riddle\Riddle.csproj", "{03A75109-EF0B-4600-95A4-5C7EBD0A06F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBAA163-4458-4DC9-B080-A895FD7B43D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBAA163-4458-4DC9-B080-A895FD7B43D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBAA163-4458-4DC9-B080-A895FD7B43D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBAA163-4458-4DC9-B080-A895FD7B43D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A75109-EF0B-4600-95A4-5C7EBD0A06F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A75109-EF0B-4600-95A4-5C7EBD0A06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A75109-EF0B-4600-95A4-5C7EBD0A06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A75109-EF0B-4600-95A4-5C7EBD0A06F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAE5414-04BF-4E1D-999B-9F8EFF8DA6B4}
+	EndGlobalSection
+EndGlobal
